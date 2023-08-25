@@ -113,7 +113,7 @@ h1 {
 /* Larger than phablet */
 @media (min-width: 550px) {
   h1 {
-    font-size: 48px;
+    font-size: 46px;
     line-height: 96px;
   }
 }
@@ -218,7 +218,7 @@ hr {
 50% (default): True circle
 */
 .avatar {
-  height: 128px;
+  height: 120px;
   object-fit: cover;
   background-position: center;
 }
